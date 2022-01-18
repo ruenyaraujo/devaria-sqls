@@ -1,0 +1,1 @@
+# Repositório referente aos scripts SQL do módulo Banco de Dadods da Devaria
